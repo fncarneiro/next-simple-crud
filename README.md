@@ -1,34 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Welcome to Move.it 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/react-16.8.x-blue.svg" />
+  <a href="https://github.com/fncarneiro/moveit#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/fncarneiro/moveit/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/fncarneiro/moveit/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/fncarneiro/moveit" />
+  </a>
+  <a href="https://twitter.com/o_fe" target="_blank">
+    <img alt="Twitter: o_fe" src="https://img.shields.io/twitter/follow/o_fe.svg?style=social" />
+  </a>
+</p>
 
-## Getting Started
+<a href="https://moveit-fncarneiro.vercel.app/" target="_blank">
+  <img src="https://github.com/fncarneiro/moveit/blob/main/public/logo-full.svg" alt="Move.it logo">  
+</a>
 
-First, run the development server:
+![](/public/moveit.gif) 
 
-```bash
-npm run dev
-# or
-yarn dev
+> The App Move.it will help you to use The Pomodoro Technique.
+> The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
+> The technique uses a timer to break down work into intervals, traditionally 25 minutes in length,
+> separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato',
+> after the tomato-shaped kitchen timer that Cirillo used as a university student.
+
+> The technique has been widely popularized by dozens of apps and websites providing timers and instructions. 
+> Closely related to concepts such as timeboxing and iterative and incremental development used in software design,
+> the method has been adopted in pair programming contexts.
+
+<p>
+ <a href="https://rocketseat.com.br/" target="_blank">
+    <img src="https://storage.googleapis.com/golden-wind/github/rocketseat-logo.svg" style="color: #121214" width="220px"  alt="Rocketseat Logo"/>      
+    <br>  
+    Project developed during nlw/4 - RocketSeat Next Level Week.
+ </a> 
+</p>
+
+### 🏠 [Homepage](https://moveit-fncarneiro.vercel.app/)
+
+## Prerequisites
+
+- React: ^16.8.0
+- Next: last version
+- Typescript: last version
+
+
+## Install
+
+```sh
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Run tests
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+no tests yet
 
-## Learn More
+## Author
 
-To learn more about Next.js, take a look at the following resources:
+👤 **Fernando N Carneiro**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Twitter: [@o\_fe](https://twitter.com/o\_fe)
+* Github: [@fncarneiro](https://github.com/fncarneiro)
+* LinkedIn: [@fncarneiro](https://linkedin.com/in/fncarneiro)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fncarneiro/moveit/issues). You can also take a look at the [contributing guide](https://github.com/fncarneiro/moveit/blob/master/CONTRIBUTING.md).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Show your support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Fernando N Carneiro](https://github.com/fncarneiro).<br />
+This project is [ISC](https://github.com/fncarneiro/moveit/blob/master/LICENSE) licensed.
