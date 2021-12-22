@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Move.it 👋</h1>
+<h1 align="center">Welcome to Next Simple CRUD 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/react-16.8.x-blue.svg" />
@@ -16,37 +16,15 @@
   </a>
 </p>
 
-<a href="https://moveit-fncarneiro.vercel.app/" target="_blank">
-  <img src="https://github.com/fncarneiro/moveit/blob/main/public/logo-full.svg" alt="Move.it logo">  
-</a>
 
-![](/public/moveit.gif) 
-
-> The App Move.it will help you to use The Pomodoro Technique.
-> The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
-> The technique uses a timer to break down work into intervals, traditionally 25 minutes in length,
-> separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato',
-> after the tomato-shaped kitchen timer that Cirillo used as a university student.
-
-> The technique has been widely popularized by dozens of apps and websites providing timers and instructions. 
-> Closely related to concepts such as timeboxing and iterative and incremental development used in software design,
-> the method has been adopted in pair programming contexts.
-
-<p>
- <a href="https://rocketseat.com.br/" target="_blank">
-    <img src="https://storage.googleapis.com/golden-wind/github/rocketseat-logo.svg" style="color: #121214" width="220px"  alt="Rocketseat Logo"/>      
-    <br>  
-    Project developed during nlw/4 - RocketSeat Next Level Week.
- </a> 
-</p>
-
-### 🏠 [Homepage](https://moveit-fncarneiro.vercel.app/)
+> The Simple Next CRUD APP is a project that will help you learn a litle about React/Next, Typescript and Tailwind CSS.
 
 ## Prerequisites
 
-- React: ^16.8.0
-- Next: last version
+- React: 17.0.2
+- Next: 12.0.7
 - Typescript: last version
+- Firebase: 8.8.0  
 
 
 ## Install
@@ -75,7 +53,7 @@ no tests yet
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fncarneiro/moveit/issues). You can also take a look at the [contributing guide](https://github.com/fncarneiro/moveit/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fncarneiro/next-simple-crud/issues). You can also take a look at the [contributing guide](https://github.com/fncarneiro/next-simple-crud/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -84,4 +62,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Fernando N Carneiro](https://github.com/fncarneiro).<br />
-This project is [ISC](https://github.com/fncarneiro/moveit/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/fncarneiro/next-simple-crud/blob/master/LICENSE) licensed.
