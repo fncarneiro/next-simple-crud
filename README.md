@@ -2,14 +2,14 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/react-16.8.x-blue.svg" />
-  <a href="https://github.com/fncarneiro/moveit#readme" target="_blank">
+  <a href="https://github.com/fncarneiro/next-simple-crud#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/fncarneiro/moveit/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/fncarneiro/next-simple-crud/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/fncarneiro/moveit/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/fncarneiro/moveit" />
+  <a href="https://github.com/fncarneiro/next-simple-crud/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/fncarneiro/next-simple-crud" />
   </a>
   <a href="https://twitter.com/o_fe" target="_blank">
     <img alt="Twitter: o_fe" src="https://img.shields.io/twitter/follow/o_fe.svg?style=social" />
